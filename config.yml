@@ -9,6 +9,7 @@ plot:
 bar:
   range: 15 # how many users to include in the bar graph
 versus:
+  - 341618773024833539
   - 298294667219435521
   - 387259938977742849
   - 477148794861912084
